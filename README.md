@@ -1,11 +1,7 @@
-file_upload + video playing
+file upload + video playing
 
-1. npm install
+1. sh setup.sh
 
-2. cd frontend
+2. upload a mp4 file (one can use cat.mp4 in repo)
 
-3. npm install 
-
-4. upload a mp4 file
-
-5. type in the file name you just upladed and then you can play the video
+3. type in the file name you just upladed and then you can play the video
