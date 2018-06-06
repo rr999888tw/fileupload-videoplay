@@ -133,6 +133,7 @@ class App extends Component {
 
         <ReactPlayer 
           url= {`/video/${this.state.value}`}  
+          // url= 'http://10.117.227.124:1935/vod/mp4:sample.mp4/manifest.mpd'
           playing = {false}
           controls = {true}
         />

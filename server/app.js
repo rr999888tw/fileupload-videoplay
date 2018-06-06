@@ -58,6 +58,7 @@ app.use('/page', routes.page);
 
 // video-stream route
 app.get('/video/:filename', videoStream({ dir: path.resolve(__dirname, 'uploadedfiles') }));
+
 app.put('/uploadFiles', function (req, res) {
   // console.log(req.files);
   if (!req.files)
