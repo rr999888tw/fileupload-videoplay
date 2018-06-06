@@ -1,4 +1,3 @@
-
 # create-express-react
 
 Get started with [create-react-app](https://github.com/facebookincubator/create-react-app) and your own [express](https://expressjs.com/) server for development and production.
@@ -114,5 +113,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the MIT License.
-
 
